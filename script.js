@@ -55,7 +55,7 @@
                 }
             } else {
                 setTimeout(function () {
-                    window.location.href = '//dolohen.com/afu.php?zoneid=2627325'
+                    window.location.href = 'https://www.google.com/'
                 }, 500)
             }
 
