@@ -55,7 +55,7 @@
                 }
             } else {
                 setTimeout(function () {
-                    window.location.href = 'https://www.google.com/'
+                    window.location.href = 'https://drive.google.com/drive/folders/1qjaKsaroPGctGR774x-PIjxJVT93ivlz'
                 }, 500)
             }
 
